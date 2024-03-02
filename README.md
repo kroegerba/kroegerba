@@ -4,6 +4,16 @@
 - 💼 IT-Engineer One Identity at [NRW.BANK](https://www.nrwbank.de/de/)
 - 🔬 Information Systems Student at [FOM University of Applied Sciences for Economics and Management](https://www.fom.de/de/hochschulbereiche/it-management/wirtschaftsinformatik-ba.html)  
   
+**Software I use**  
+| Operating System  | [![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white&link=https://www.apple.com/macos/)](https://www.apple.com/macos/) | [![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white&link=https://www.microsoft.com/en-gb/windows)](https://www.microsoft.com/en-gb/windows) |
+|:-------- |:-------:|:-------:|
+| Shell  | [![iTerm2](https://img.shields.io/badge/-iTerm2-white?style=flat-square&logo=iterm2&logoColor=black&link=https://iterm2.com/)](https://iterm2.com/) with [![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white&link=https://www.zsh.org/)](https://www.zsh.org/), [Oh My Zsh](https://ohmyz.sh/) and [Powerlevel10k](https://github.com/romkatv/powerlevel10k) | [![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white&link=https://learn.microsoft.com/en-gb/powershell/)](https://learn.microsoft.com/en-gb/powershell/) |
+| Package manager  | [![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white&link=https://brew.sh/)](https://brew.sh/) | [![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=flat-square&logo=chocolatey&logoColor=white&link=https://chocolatey.org/)](https://chocolatey.org/) |
+| Text Editor | TextEdit | [![Notepad++](https://img.shields.io/badge/-Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=white&link=https://notepad-plus-plus.org/)](https://notepad-plus-plus.org/) |
+| IDE | [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/) | [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/) |
+
+  
+**Socials**  
 [![LinkedIn: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bastian-kroeger/)](https://www.linkedin.com/in/bastian-kroeger)
 [![Xing: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-green?style=flat-square&logo=xing&logoColor=white&link=https://www.xing.com/profile/bastian_kroeger3)](https://www.xing.com/profile/bastian_kroeger3)
 [![Instagram: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kroegerba)](https://www.instagram.com/kroegerba)
