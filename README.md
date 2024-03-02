@@ -14,6 +14,7 @@
 
   
 **Socials**  
+  
 [![LinkedIn: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bastian-kroeger/)](https://www.linkedin.com/in/bastian-kroeger)
 [![Xing: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-green?style=flat-square&logo=xing&logoColor=white&link=https://www.xing.com/profile/bastian_kroeger3)](https://www.xing.com/profile/bastian_kroeger3)
 [![Instagram: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kroegerba)](https://www.instagram.com/kroegerba)
