@@ -1,7 +1,12 @@
-[LinkedIn](https://www.linkedin.com/in/bastian-kroeger/)  
-[Xing](https://www.xing.com/profile/Bastian_Kroeger3/cv)
-
-<!---
-kroegerba/kroegerba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**About me**  
+- ![](https://img.shields.io/badge/-German-lightgrey?style=flat-square&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iDQoJImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMDAiIGhlaWdodD0iNjAwIiB2aWV3Qm94PSIwIDAgNSAzIj4NCgk8ZGVzYz5GbGFnIG9mIEdlcm1hbnk8L2Rlc2M+DQoJPHJlY3QgaWQ9ImJsYWNrX3N0cmlwZSIgd2lkdGg9IjUiIGhlaWdodD0iMyIgeT0iMCIgeD0iMCIgZmlsbD0iIzAwMCIvPg0KCTxyZWN0IGlkPSJyZWRfc3RyaXBlIiB3aWR0aD0iNSIgaGVpZ2h0PSIyIiB5PSIxIiB4PSIwIiBmaWxsPSIjRDAwIi8+DQoJPHJlY3QgaWQ9ImdvbGRfc3RyaXBlIiB3aWR0aD0iNSIgaGVpZ2h0PSIxIiB5PSIyIiB4PSIwIiBmaWxsPSIjRkZDRTAwIi8+DQo8L3N2Zz4NCg==) 
+![](https://img.shields.io/badge/-British-lightgrey?style=flat-square&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNjAgMzAiIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYwMCI+DQo8Y2xpcFBhdGggaWQ9InMiPg0KCTxwYXRoIGQ9Ik0wLDAgdjMwIGg2MCB2LTMwIHoiLz4NCjwvY2xpcFBhdGg+DQo8Y2xpcFBhdGggaWQ9InQiPg0KCTxwYXRoIGQ9Ik0zMCwxNSBoMzAgdjE1IHogdjE1IGgtMzAgeiBoLTMwIHYtMTUgeiB2LTE1IGgzMCB6Ii8+DQo8L2NsaXBQYXRoPg0KPGcgY2xpcC1wYXRoPSJ1cmwoI3MpIj4NCgk8cGF0aCBkPSJNMCwwIHYzMCBoNjAgdi0zMCB6IiBmaWxsPSIjMDEyMTY5Ii8+DQoJPHBhdGggZD0iTTAsMCBMNjAsMzAgTTYwLDAgTDAsMzAiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI2Ii8+DQoJPHBhdGggZD0iTTAsMCBMNjAsMzAgTTYwLDAgTDAsMzAiIGNsaXAtcGF0aD0idXJsKCN0KSIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjQiLz4NCgk8cGF0aCBkPSJNMzAsMCB2MzAgTTAsMTUgaDYwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMTAiLz4NCgk8cGF0aCBkPSJNMzAsMCB2MzAgTTAsMTUgaDYwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iNiIvPg0KPC9nPg0KPC9zdmc+)
+- 💼 IT-Engineer One Identity at [NRW.BANK](https://www.nrwbank.de/de/)
+- 🔬 Information Systems Student at [FOM University of Applied Sciences for Economics and Management](https://www.fom.de/de/hochschulbereiche/it-management/wirtschaftsinformatik-ba.html)  
+  
+[![LinkedIn: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bastian-kroeger/)](https://www.linkedin.com/in/bastian-kroeger)
+[![Xing: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-green?style=flat-square&logo=xing&logoColor=white&link=https://www.xing.com/profile/bastian_kroeger3)](https://www.xing.com/profile/bastian_kroeger3)
+[![Instagram: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kroegerba)](https://www.instagram.com/kroegerba)
+[![Strava: Bastian Kröger](https://img.shields.io/badge/-Bastian%20Kr%C3%B6ger-FC4C02?style=flat-square&logo=strava&logoColor=white&link=https://www.strava.com/athletes/26649617)](https://www.strava.com/athletes/26649617)
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kroegerba&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
